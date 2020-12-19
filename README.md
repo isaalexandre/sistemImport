@@ -23,7 +23,7 @@ Cálcular a velocidade de cada dinossauros em comum.
 
 - **`Mostrar apenas os nomes dos dinossauros bípedes do mais rápido ao mais lento.`**
 
-## :modo de instalação 
+## Modo de instalação 
 
 - Clonar o repositório do projeto.
 - Executar o seguinte comandos:
